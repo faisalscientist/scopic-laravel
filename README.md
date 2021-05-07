@@ -14,5 +14,5 @@ mysql
 Run composer install to install vendor packages
 Copy .env-example file to .env
 Set up database credentials in .env. file
-Run php artisan serve on port 8000
+Run php artisan serve
 ```
